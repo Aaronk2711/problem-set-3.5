@@ -1,3 +1,51 @@
 body {
-   background-image: linear-gradient(120deg, aqua, white);
+  background: #de6161;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #2657eb, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: seashell;
+  font-family: "Courier New", Monospace;
+}
+
+.topnav {
+  margin: 0;
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  border: 1px solid #555;
+}
+
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnavitems {
+  display: inline-block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align: center;
+  border-bottom: 1px solid #555;
+}
+
+#topnav1:hover {
+  background-color: #555;
+  color: white;
+}
+
+#topnav2:hover {
+  background-color: #555;
+  color: white;
+}
+
+#topnav3:hover {
+  background-color: #555;
+  color: white;
+}
+
+#topnav4:hover {
+  background-color: #555;
+  color: white;
 }
