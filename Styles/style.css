@@ -1,9 +1,39 @@
 body {
-  background: #de6161;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to top, #2657eb, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(#de6161, #00cccc);
   color: seashell;
   font-family: "Courier New", Monospace;
+}
+
+
+
+footer [href = "https://www.ucvts.tec.nj.us/domain/16#calendar4326/20181010/month"]:hover
+{
+  background-color: #555;
+  color: white;
+}
+
+footer [href = "https://www.ucvts.tec.nj.us/page/4698"]:hover
+{
+  background-color: #555;
+  color: white;
+}
+
+footer [href = "info@example.com"]:hover
+{
+  background-color: #555;
+  color: white;
+}
+
+body [href = "http://www.worldtaekwondo.org/"]:hover
+{
+  background-color: #555;
+  color: white;
+}
+
+body [href = "https://msu.edu/~spock/history.html"]:hover
+{
+  background-color: #555;
+  color: white;
 }
 
 .topnav {
@@ -16,7 +46,7 @@ body {
   border: 1px solid #555;
 }
 
-.active {
+.topnav:current {
   background-color: #4CAF50;
   color: white;
 }
