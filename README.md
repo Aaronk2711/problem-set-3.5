@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 25c9a9b7e13472acf791e059c94cc3969c44fa95
 # Problem Set 3½
 
 Problem Set 3½ allows you to continue exploring your creating side. Having already designed and built your first website, we'll now be using CSS to make it look much nicer.
@@ -78,6 +81,7 @@ More specifically, your website must include and incorporate the following featu
 * A `border` around at least 1 image per page.
    - At least 1 of your `border`s must incorporate rounded corners.
 * All `img` dimensions must be defined in the externally linked CSS page, and not as a tag attribute.
+<<<<<<< HEAD
 =======
 # Problem Set 3
 
@@ -151,6 +155,8 @@ More specifically, your website must include and incorporate the following featu
    - Your footer must include a contact email (appropriately hyperlinked)
       * You must not use an actual email (instead, use info@example.com)
 >>>>>>> 58dcfa2d3f17ad2f6d51e681251331afbe99d2ef
+=======
+>>>>>>> 25c9a9b7e13472acf791e059c94cc3969c44fa95
 
 To avoid confusion, your directory structure must match the following. If something is followed with a `/`, it is a folder; otherwise, it is a file.
 
@@ -158,6 +164,9 @@ To avoid confusion, your directory structure must match the following. If someth
 problem-set-3/
    images/
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 25c9a9b7e13472acf791e059c94cc3969c44fa95
       kitchen.png
       meals/
          pasta.png
@@ -175,6 +184,7 @@ Of course, your filenames will be different than mine. They are alphabetized, so
 ## Deadline
 
 Your Canvas submission is due at or before 11:59pm on **Sunday, October 21, 2018**. Please make sure you verify how many grace days you have remaining for this marking period.
+<<<<<<< HEAD
 =======
       myimage1.png
       subfolder/
@@ -194,6 +204,8 @@ Your Canvas submission is due at or before 11:59pm on your section-specific due 
 * October 9, 2018 (A 3/4 & 7/8)
 * October 10, 2018 (B 3/4 & 7/8)
 >>>>>>> 58dcfa2d3f17ad2f6d51e681251331afbe99d2ef
+=======
+>>>>>>> 25c9a9b7e13472acf791e059c94cc3969c44fa95
 
 ### Submission Requirements
 
