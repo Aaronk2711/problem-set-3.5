@@ -46,17 +46,11 @@ body [href = "https://msu.edu/~spock/history.html"]:hover
 .topnav {
   margin: 0;
   padding: 0;
-  margin: 0;
-  padding: 0;
   width: 200px;
   background-color: #f1f1f1;
   border: 1px solid #555;
 }
 
-.topnav:current {
-  background-color: #4CAF50;
-  color: white;
-}
 
 .topnavitems {
   display: inline-block;
@@ -98,3 +92,43 @@ text-align:left;
 ul {
 text-align: left;
  }
+
+.active {
+ color: red;
+ display: inline-block;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-align: center;
+  border-bottom: 1px solid #555;
+   }
+  
+ p {
+ width: 75%;
+ margin-left: 200px;
+ margin-right: 200px;
+ text-align: center; }  
+ 
+ 
+  #topnav1:active {
+   color: red;
+ }
+  #topnav2:active {
+   color: red;
+ }
+  #topnav3:active {
+   color: red;
+ }
+  #topnav4:active {
+   color: red;
+ }
+  #image1:focus-visible {
+   border-radius: 200px;
+   border-color: orange;
+ }
+  *:any-link {
+  }
+ col || td {
+  color: blue;
+}
+  
+ 
