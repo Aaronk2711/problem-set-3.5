@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 25c9a9b7e13472acf791e059c94cc3969c44fa95
->>>>>>> dd047800dbf993fe3d7c9286fa1e7f41e394db20
 # Problem Set 3½
 
 Problem Set 3½ allows you to continue exploring your creating side. Having already designed and built your first website, we'll now be using CSS to make it look much nicer.
