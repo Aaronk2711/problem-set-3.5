@@ -13,6 +13,14 @@ body {
   text-align: center;
 }
 
+footer {
+  font-style: normal;
+  font-size: 0.9em;
+  font-weight:400;
+  color: black;
+  text-decoration: none;
+}
+
 footer [href = "https://www.ucvts.tec.nj.us/domain/16#calendar4326/20181010/month"]:hover
 {
   background-color: #555;
@@ -46,15 +54,12 @@ body [href = "https://msu.edu/~spock/history.html"]:hover
 .topnav {
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
+  width: 100%;
+  background-color: #de6161;
   border: 1px solid #555;
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c2e858e01e9b95a488fe5210ccc547f90c530b67
 .topnavitems {
   display: inline-block;
   color: #000;
@@ -62,6 +67,10 @@ body [href = "https://msu.edu/~spock/history.html"]:hover
   text-decoration: none;
   text-align: center;
   border-bottom: 1px solid #555;
+}
+
+*:first {
+  margin: 50;
 }
 
 #topnav1:hover {
@@ -86,33 +95,36 @@ body [href = "https://msu.edu/~spock/history.html"]:hover
 
 table {
    margin-left: auto;
-   margin-right: auto; }
+   margin-right: auto;
+   font: 1.0em serif;
+ }
 
 ol {
 text-align:left;
+font: 0.90em arial, sans-serif;
 }
 
 ul {
 text-align: left;
+font: 0.90em arial, sans-serif;
  }
 
-<<<<<<< HEAD
-.active {
- color: red;
- display: inline-block;
-  padding: 8px 16px;
-  text-decoration: none;
-  text-align: center;
-  border-bottom: 1px solid #555;
-   }
-  
+ .active {
+  color: blue;
+  display: inline-block;
+   padding: 8px 16px;
+   text-decoration: none;
+   text-align: center;
+   border-bottom: 1px solid #555;
+    }
+
  p {
  width: 75%;
  margin-left: 200px;
  margin-right: 200px;
- text-align: center; }  
- 
- 
+ text-align: center; }
+
+
   #topnav1:active {
    color: red;
  }
@@ -125,44 +137,35 @@ text-align: left;
   #topnav4:active {
    color: red;
  }
-  #image1:focus-visible {
-   border-radius: 200px;
-   border-color: orange;
+
+ ul li {
+   margin: auto;
  }
-  *:any-link {
-  }
- col || td {
-  color: blue;
+
+ h3 {
+   font: bold 1.2em "Fira Sans", sans-serif;
+ }
+
+#image1 {
+  height: 500px;
+  width: 800px;
+  border-radius: 50%;
 }
-  
- 
-=======
- #topnav1:active {
-   color: red;
- }
 
- #topnav2:active {
-   color: red;
- }
-
- #topnav3:active {
-   color: red;
- }
-
- #topnav4:active {
-   color: red;
- }
-
- #image1:focus-visible {
-   border-radius: 200px;
-   border-color: orange;
- }
-
- *:any-link {
-
- }
-
-col || td {
-  color: blue;
+#image2 {
+  height: 400px;
+  width: 700px;
+  border-radius: 10px;
 }
->>>>>>> c2e858e01e9b95a488fe5210ccc547f90c530b67
+
+#image3 {
+  height: 300px;
+  width: 600px;
+  border-radius: 10px;
+}
+
+#image4 {
+  height: 400px;
+  width: 700px;
+  border-radius: 10px;
+}
